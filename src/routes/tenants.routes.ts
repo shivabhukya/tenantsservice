@@ -9,4 +9,5 @@ router.get("/:id", getTenantById);
 router.put("/:id", updateTenant);
 router.delete("/:id", deleteTenant);
 
+
 export default router;
